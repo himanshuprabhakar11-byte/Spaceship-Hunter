@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa88fa03ca7935d409a2270d9d0e7431
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/GaintBuddingFlora/GBF_Settings.asset
+  uploadId: 774286

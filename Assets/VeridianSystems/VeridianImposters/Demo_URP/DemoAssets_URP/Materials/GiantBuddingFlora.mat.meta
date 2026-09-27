@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fdb9edc832c1ee47aa399e56fe53d07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Materials/GiantBuddingFlora.mat
+  uploadId: 774286

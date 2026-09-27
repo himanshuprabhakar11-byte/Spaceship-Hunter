@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a5da2c1be243b746a36788a829ca117
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Shaders/NormalCapture_URP.hlsl
+  uploadId: 774286

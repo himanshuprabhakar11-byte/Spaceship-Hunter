@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a71d560820a561478893a18138f103c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Shaders/NormalCapture_Builtin.shader
+  uploadId: 774286

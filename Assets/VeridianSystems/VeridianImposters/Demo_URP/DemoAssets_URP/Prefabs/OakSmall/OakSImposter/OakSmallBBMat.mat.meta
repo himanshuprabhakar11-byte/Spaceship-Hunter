@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1f9630a3ecd49d4ab2ac99c4e28d02c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/OakSmall/OakSImposter/OakSmallBBMat.mat
+  uploadId: 774286

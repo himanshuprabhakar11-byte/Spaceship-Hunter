@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a58582e887928054e8ad9b94c899a2ed
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Shaders/NormalCapture_HDRP.hlsl
+  uploadId: 774286

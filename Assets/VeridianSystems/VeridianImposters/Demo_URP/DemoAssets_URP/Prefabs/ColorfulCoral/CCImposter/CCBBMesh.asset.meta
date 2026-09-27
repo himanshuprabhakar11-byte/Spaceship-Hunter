@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25c610635f722f542b93121dba4dde84
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/ColorfulCoral/CCImposter/CCBBMesh.asset
+  uploadId: 774286

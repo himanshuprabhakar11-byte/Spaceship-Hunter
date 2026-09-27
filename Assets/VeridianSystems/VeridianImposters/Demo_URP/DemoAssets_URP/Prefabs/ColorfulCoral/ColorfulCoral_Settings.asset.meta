@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1bb153ce9e04374b80a9c4d12ff6f3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/ColorfulCoral/ColorfulCoral_Settings.asset
+  uploadId: 774286

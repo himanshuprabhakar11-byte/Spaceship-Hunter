@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d76e1447fc5a4143913b55984ab79b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/OakMedium/OakMedium_Settings.asset
+  uploadId: 774286

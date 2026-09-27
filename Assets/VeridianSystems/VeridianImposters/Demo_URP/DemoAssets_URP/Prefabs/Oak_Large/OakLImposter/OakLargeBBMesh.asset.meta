@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5fe1fcb208bef042b25aaa3a419ea4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/Oak_Large/OakLImposter/OakLargeBBMesh.asset
+  uploadId: 774286

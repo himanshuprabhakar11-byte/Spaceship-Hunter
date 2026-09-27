@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7246e761de06f2b4a81151f805617f52
+labels:
+- The Visual Engine
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Mesh/OakLargeMesh_LOD1.asset
+  uploadId: 774286

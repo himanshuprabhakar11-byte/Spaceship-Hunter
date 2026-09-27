@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f6d44ac3569b6e48b5c62e93efee751
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Mesh/GBF_LOD0.mesh
+  uploadId: 774286

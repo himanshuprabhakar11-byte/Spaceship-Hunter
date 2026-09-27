@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f2aadad515501240851ea0c350116af
+labels:
+- The Visual Engine
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/Oak_Large/Oak_Large.prefab
+  uploadId: 774286

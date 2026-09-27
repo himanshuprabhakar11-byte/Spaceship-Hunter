@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b4e5fed2b39d14b922658b2adb1697, type: 3}
+  m_Name: OakLarge_Settings
+  m_EditorClassIdentifier: 
+  SourceLODIndex: 1
+  ResolutionIndex: 2
+  NumSnapshotsIndex: 2
+  CameraCaptureDistanceOffset: 2
+  FramePadding: 0.05
+  OptimizeTexturesForFrontFace: 0
+  SnapshotLayerIndex: 0
+  EnableHorizontalCap: 0
+  SupersamplingIndex: 0
+  EnableEdgePadding: 1
+  EdgePaddingIterations: 3
+  AlphaProcessingClipThreshold: 0.1
+  GenerateNormalMap: 1
+  HorizontalCrossSectionDefs: []
+  ProfileShape: 0
+  ManualVerticalOffset: 0
+  QuadOffsetAmount: 0.001
+  XZScaleFactor: 1.1
+  OctagonBottomWidthFraction: 0.3
+  OctagonTopWidthFraction: 0.2
+  OctagonMaxWidthCenterYFraction: 0.5
+  SnapshotAmbientLightMultiplier: 1
+  SnapshotAmbientIntensity: 1
+  SnapshotKeyLightIntensity: 1
+  SnapshotKeyLightRotation: {x: 45, y: -30, z: 0}
+  RenderMode: 0
+  MaterialAlphaClipThreshold: 0.5
+  MaterialSmoothness: 0
+  UserDefinedBaseName: Billboard
+  EnableLODCreation: 1
+  CullCutoffPercent: 1.5
+  BillboardLODTransitionPercent: 15

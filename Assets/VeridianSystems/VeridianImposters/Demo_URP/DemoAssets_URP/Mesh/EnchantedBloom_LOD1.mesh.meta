@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f45956be8b5ac064a9b66c8b5ca3f0b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Mesh/EnchantedBloom_LOD1.mesh
+  uploadId: 774286

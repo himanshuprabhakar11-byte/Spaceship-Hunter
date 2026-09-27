@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48c4e6e4b3fe6c448ba55ad0172d0659
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Ground/TerrainLayers/Grass02.terrainlayer
+  uploadId: 774286

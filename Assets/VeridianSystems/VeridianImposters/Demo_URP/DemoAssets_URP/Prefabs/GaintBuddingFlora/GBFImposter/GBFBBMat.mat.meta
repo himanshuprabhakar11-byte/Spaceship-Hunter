@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5e9c348feb66d74791882d76a57469a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/GaintBuddingFlora/GBFImposter/GBFBBMat.mat
+  uploadId: 774286

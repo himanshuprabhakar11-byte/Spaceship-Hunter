@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18c8363d6f7a71142ab9cd2af6d79d4b
+labels:
+- The Visual Engine
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/OakSmall/Oak_Small.prefab
+  uploadId: 774286

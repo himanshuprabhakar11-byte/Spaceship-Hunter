@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25fd91acdbe5dda4ca07dc407d6f81b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Materials/OakBark.mat
+  uploadId: 774286

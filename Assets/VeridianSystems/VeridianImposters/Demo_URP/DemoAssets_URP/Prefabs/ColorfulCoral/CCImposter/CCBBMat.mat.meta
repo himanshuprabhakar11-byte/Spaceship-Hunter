@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8f61893ccea60246936c4fc623ebb9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/ColorfulCoral/CCImposter/CCBBMat.mat
+  uploadId: 774286

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0cd5f4686ed7004ca36a0ddbfaefd4c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/Oak_Large/OakLImposter/OakLargeBBMat.mat
+  uploadId: 774286

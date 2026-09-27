@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7198165d27824994fb26e3ce93446b9c
+labels:
+- The Visual Engine
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Mesh/OakSmallMesh_LOD1.asset
+  uploadId: 774286

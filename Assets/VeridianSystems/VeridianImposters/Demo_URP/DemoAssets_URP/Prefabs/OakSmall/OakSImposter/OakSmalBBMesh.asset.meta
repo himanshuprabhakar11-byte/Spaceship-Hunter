@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6148a12b0bac2de4591eac53537643f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/OakSmall/OakSImposter/OakSmalBBMesh.asset
+  uploadId: 774286

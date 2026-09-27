@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7be92890e43175845a0d13f7e3136881
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Shaders/NormalCapture_URP.shader
+  uploadId: 774286

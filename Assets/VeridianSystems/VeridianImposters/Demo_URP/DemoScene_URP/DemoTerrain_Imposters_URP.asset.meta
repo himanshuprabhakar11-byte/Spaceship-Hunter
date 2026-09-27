@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af00ea0bfdd0abd4598c50e21bd4d1c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoScene_URP/DemoTerrain_Imposters_URP.asset
+  uploadId: 774286

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2d2d2f36ce5a7741b2787002c31ee22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/OakSmall/OakSmall_Settings.asset
+  uploadId: 774286

@@ -1,0 +1,8 @@
+This asset package includes a modified version of the following third-party work:
+
+Title: "oak trees"
+Creator: DJMaesen
+Source: https://sketchfab.com/3d-models/oak-trees-4f749593f66a4154a13b7c895964a479
+License: Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Changes Made: The original asset was modified for this package. The leaf meshes were fused, LODs were created, and textures were adjusted.

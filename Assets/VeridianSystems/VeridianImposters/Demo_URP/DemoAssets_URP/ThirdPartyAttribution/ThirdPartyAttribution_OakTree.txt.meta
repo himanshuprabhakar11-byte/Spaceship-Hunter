@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69378e287a7c5c64d845673ceaad083d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/ThirdPartyAttribution/ThirdPartyAttribution_OakTree.txt
+  uploadId: 774286

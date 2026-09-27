@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a4cadbd60a401043b4effa4b0da38bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Prefabs/EnchantedBloom/EBImposter/EBPrefabMat.mat
+  uploadId: 774286

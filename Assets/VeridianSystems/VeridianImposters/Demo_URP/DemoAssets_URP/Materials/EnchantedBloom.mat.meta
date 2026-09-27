@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57d2232a674d09a4d8e91bca4517d0f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327110
+  packageName: Veridian Imposters
+  packageVersion: 1.0
+  assetPath: Assets/VeridianSystems/VeridianImposters/Demo_URP/DemoAssets_URP/Materials/EnchantedBloom.mat
+  uploadId: 774286
