@@ -14,11 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1987892253109915671, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
       propertyPath: hitPoints
-      value: 4
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1987892253109915671, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
       propertyPath: scoreValue
-      value: 15
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4203252598053277133, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
       propertyPath: m_LocalScale.x
@@ -89,6 +89,10 @@ PrefabInstance:
       value: 27.44
       objectReference: {fileID: 0}
     - target: {fileID: 6875461833982056444, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
+      propertyPath: m_Center.x
+      value: 0.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6875461833982056444, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
       propertyPath: m_Center.y
       value: 2
       objectReference: {fileID: 0}
@@ -99,6 +103,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 8370125126494746406, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
+    - {fileID: 4494692919822292055, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 6542135630866546423, guid: 4ce2a624a3a8b7047834e61a3b55262c, type: 3}
       insertIndex: -1

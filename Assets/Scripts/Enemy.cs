@@ -24,7 +24,7 @@ public class Enemy : MonoBehaviour
 
         if (hitPoints <= 0)
         {
-            scoreboard.IncreaseScore(scoreValue);
+            scoreboard.IncreaseScore(scoreValue); 
             Instantiate(destroyedVFX, transform.position, Quaternion.identity);
             Destroy(this.gameObject);
         }

@@ -45,91 +45,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreboardText: {fileID: 0}
---- !u!1 &3280573096882385026
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1755442915814006936}
-  - component: {fileID: 7382280447878854680}
-  - component: {fileID: 3184379969230311563}
-  m_Layer: 0
-  m_Name: Dialogue
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1755442915814006936
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3280573096882385026}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4984877095207247048}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7382280447878854680
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3280573096882385026}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ffb4eaff99f989e4795ca506d7bc0896, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timelineTextLines:
-  - We're glad to have you here Lieutenant.  We could really use your help!
-  - Like shooting fish in a barrel!
-  - It's a trap!  Get out of there.
-  - Crikey!  Looks like you could use a hand.
-  - Never thought I'd see your face around here general...
-  - Righteo let's finish this once and for all.
-  - Struth!  Looks like the galaxy just got a little more safe.
-  - Yeeeehaw!!  You did it!
-  dialogueText: {fileID: 0}
---- !u!114 &3184379969230311563
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3280573096882385026}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Events:
-    m_Signals:
-    - {fileID: 11400000, guid: 444e031e83ed1cb4ebd74a2675f920c8, type: 2}
-    m_Events:
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 7382280447878854680}
-          m_TargetAssemblyTypeName: DialogueLines, Assembly-CSharp
-          m_MethodName: NextDialogueLine
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
 --- !u!1 &5910918117253094150
 GameObject:
   m_ObjectHideFlags: 0
@@ -174,6 +89,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a55115e545e162641be67c5e8f540fe6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameSceneManager
+  targetObject: {fileID: 0}
 --- !u!1 &6141951740048468681
 GameObject:
   m_ObjectHideFlags: 0
@@ -203,7 +119,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1755442915814006936}
   - {fileID: 6842940356725014882}
   - {fileID: 3044336878037083886}
   m_Father: {fileID: 0}

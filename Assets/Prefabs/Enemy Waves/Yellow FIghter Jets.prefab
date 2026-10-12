@@ -226,8 +226,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   destroyedVFX: {fileID: 1946507113524545799, guid: 3d13da8afe750cf448a05ecd3e71c858, type: 3}
-  hitPoints: 3
-  scoreValue: 10
+  hitPoints: 10
+  scoreValue: 30
 --- !u!4 &1074748002686725051 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 87241ee8fb7f86241a0e48f9e5d39627, type: 3}
@@ -381,8 +381,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   destroyedVFX: {fileID: 1946507113524545799, guid: 3d13da8afe750cf448a05ecd3e71c858, type: 3}
-  hitPoints: 3
-  scoreValue: 10
+  hitPoints: 10
+  scoreValue: 30
 --- !u!1001 &6370508674833365983
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -526,8 +526,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   destroyedVFX: {fileID: 1946507113524545799, guid: 3d13da8afe750cf448a05ecd3e71c858, type: 3}
-  hitPoints: 3
-  scoreValue: 10
+  hitPoints: 10
+  scoreValue: 30
 --- !u!4 &6909136035943406644 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 87241ee8fb7f86241a0e48f9e5d39627, type: 3}

@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Beetle
       objectReference: {fileID: 0}
+    - target: {fileID: 1858085357587956899, guid: 85dec91a740dd724b8e5ddd9be99314b, type: 3}
+      propertyPath: hitPoints
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 4038502114963003769, guid: 85dec91a740dd724b8e5ddd9be99314b, type: 3}
       propertyPath: m_LocalScale.x
       value: 4
@@ -121,7 +125,8 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4341202672750428387, guid: 85dec91a740dd724b8e5ddd9be99314b, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85dec91a740dd724b8e5ddd9be99314b, type: 3}

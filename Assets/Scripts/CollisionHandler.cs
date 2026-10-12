@@ -10,17 +10,30 @@ public class CollisionHandler : MonoBehaviour
     {
         gameSceneManager = FindFirstObjectByType<GameSceneManager>();
     }
-    private void OnTriggerEnter(Collider other) 
+
+    private void OnTriggerEnter(Collider other)
     {
         gameSceneManager.ReloadLevel();
         Instantiate(destroyedVFX, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

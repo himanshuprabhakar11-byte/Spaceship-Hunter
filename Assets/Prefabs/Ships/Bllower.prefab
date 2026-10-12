@@ -29,8 +29,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 147.74146, y: 48.940163, z: -459.05298}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 6542135630866546423}
   m_Father: {fileID: 0}
@@ -91,8 +91,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyedVFX: {fileID: 1946507113524545799, guid: 3d13da8afe750cf448a05ecd3e71c858, type: 3}
-  hitPoints: 3
-  scoreValue: 10
+  hitPoints: 10
+  scoreValue: 20
 --- !u!1 &6992832925887216630
 GameObject:
   m_ObjectHideFlags: 0
